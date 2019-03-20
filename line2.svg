@@ -1,0 +1,7 @@
+<svg version="1.1"
+baseProfile="full"
+width="500" height="500"
+viewBox="0 0 500 500"
+xmlns="http://www.w3.org/2000/svg" >
+   <line x1="103" y1="103" x2="150" y2="150" stroke="yellow" stroke-width="3" />
+</svg>

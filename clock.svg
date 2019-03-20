@@ -1,0 +1,11 @@
+<svg version="1.1"
+baseProfile="full"
+width="500" height="500"
+viewBox="0 0 500 500"
+xmlns="http://www.w3.org/2000/svg" >
+  <circle r="50" cx="70" cy="70"
+     fill="none" stroke="green" stroke-width="3" />
+  <line x1="70" y1="70" x2="70" y2="23" stroke="grey" stroke-width="3" />
+  <line x1="70" y1="70" x2="85" y2="27" stroke="grey" stroke-width="2" />
+  <line x1="70" y1="70" x2="60" y2="110" stroke="grey" stroke-width="1" />
+</svg>
